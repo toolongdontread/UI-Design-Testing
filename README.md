@@ -2,4 +2,4 @@
 
 This is just a testing file.
 
-'101' is only valid value in the 'Interchange Discount Search'
+Only '101' is the valid value in the 'Interchange Discount Search'
